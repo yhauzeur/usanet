@@ -478,7 +478,7 @@ a:focus {
 
 .header-middle {
     padding-top: 3rem;
-    padding-bottom: 1.9rem
+    padding-bottom: 0rem
 }
 
 .header-middle .header-left,
@@ -2138,7 +2138,7 @@ a:focus {
     position: absolute;
     left: -1.5rem;
     top: 0;
-    border-right: 15px solid #6a9234;
+    border-right: 15px solid #090542;
     border-top: 17px solid transparent
 }
 
