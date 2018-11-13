@@ -22,6 +22,12 @@
 .mt2 {
   margin-top: 1.5em;
 }
+.small {
+  width: 100%;
+  background-position: center;
+}
+background-repeat no-repeat,
+background-size contain,
 .w100pp {
   width: 100%;
 }
