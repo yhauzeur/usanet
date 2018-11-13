@@ -1,3 +1,30 @@
-.whiteTxt {
-  color: #fff;
+.content {
+  margin-top: 80px;
+  text-align: justify;
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-bottom: 50px;
+}
+.center {
+  text-align: center;
+}
+.em1 {
+  font-size: 1.5em;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+.Imgboxsize {
+  width: 100%;
+}
+.infoTxt {
+  font-size: 1.2em;
+}
+.mt2 {
+  margin-top: 1.5em;
+}
+.w100pp {
+  width: 100%;
+}
+h3 {
+  font-size: 2em;
 }
